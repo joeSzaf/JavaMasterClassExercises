@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a32306e-e7d3-4ccb-874c-9e1c8249cb3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ComplexOperators/src/com/joeszaf/ComplexNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CarpestCostCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarpestCostCalculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexOperators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComplexOperators/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="761" />
     <option name="y" value="23" />
     <option name="width" value="675" />
@@ -149,7 +148,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="23" width="675" height="796" extended-state="1" />
+    <frame x="761" y="23" width="675" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3127962" />

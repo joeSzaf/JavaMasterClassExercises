@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="324e425f-e886-4773-a691-ba1a75b0d299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/joeszaf/ComplexNumber.java" afterDir="false" />
+    <list default="true" id="6da03329-01be-44f5-b00a-13e396b69bb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/joeszaf/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/joeszaf/ChevyBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/joeszaf/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CarpestCostCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CarpestCostCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComplexOperators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComplexOperators/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WallArea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WallArea/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,16 +26,34 @@
         <entry file="file://$PROJECT_DIR$/src/com/joeszaf/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/joeszaf/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/joeszaf/ComplexNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/com/joeszaf/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="3" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="275">
+              <caret line="26" column="98" selection-start-line="26" selection-start-column="98" selection-end-line="26" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/joeszaf/ChevyBolt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -52,8 +73,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/joeszaf/ComplexNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/joeszaf/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/com/joeszaf/ChevyBolt.java" />
         <option value="$PROJECT_DIR$/src/com/joeszaf/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/joeszaf/Car.java" />
       </list>
     </option>
   </component>
@@ -77,34 +100,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ComplexOperators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ComplexOperators" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritanceChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceChallenge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ComplexOperators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ComplexOperators" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritanceChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceChallenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ComplexOperators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ComplexOperators" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritanceChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceChallenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="joeszaf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ComplexOperators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -122,7 +141,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.joeszaf.Main" />
-      <module name="ComplexOperators" />
+      <module name="InheritanceChallenge" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -141,11 +160,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="324e425f-e886-4773-a691-ba1a75b0d299" name="Default Changelist" comment="" />
-      <created>1563557360822</created>
+      <changelist id="6da03329-01be-44f5-b00a-13e396b69bb9" name="Default Changelist" comment="" />
+      <created>1564429698959</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563557360822</updated>
+      <updated>1564429698959</updated>
     </task>
     <servers />
   </component>
@@ -163,10 +182,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32954547" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -182,17 +201,31 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/joeszaf/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/joeszaf/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+        <state relative-caret-position="350">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/joeszaf/ComplexNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/joeszaf/ChevyBolt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="3" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        <state relative-caret-position="128">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/joeszaf/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/joeszaf/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="26" column="98" selection-start-line="26" selection-start-column="98" selection-end-line="26" selection-end-column="98" />
         </state>
       </provider>
     </entry>
